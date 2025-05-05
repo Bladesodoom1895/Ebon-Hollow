@@ -1,0 +1,11 @@
+{
+  "deleteMessage": false,
+  "blacklist": [
+    "badword1",
+    "badword2"
+  ],
+  "repeatCharForLengthOfWord": false,
+  "customChar": false,
+  "replaceWith": "*",
+  "repeatChar": 1
+}

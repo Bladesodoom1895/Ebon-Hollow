@@ -1,10 +1,22 @@
 # Ignore Everything
 
 .fabric/
+.mixin.out/
+cache/
+cachedImages/
 data/
+local/
 logs/
+moddata/
 mods/
+patchouli_books/
+quests_structures/
+resourcepacks/
 saves/
+shaderpacks/
+.curseclient
+irisUpdateInfo.json
 minecraftinstance.json
 options.txt
-.curseclient
+patchouli_data.json
+rhino.local.properties
