@@ -1,20 +1,27 @@
 # Ignore Everything
 
-.curseclient
 .fabric/
 .mixin.out/
 cache/
+cachedImages/
 config/
 crash-reports/
 data/
 defaultconfigs/
-irisUpdateInfo.json
+downloads/
 kubejs/
 local/
 logs/
-minecraftinstance.json
+moddata/
 mods/
+patchouli_books/
+quests_structures/
+resourcepacks/
+saves/
+shaderpacks/
+.curseclient
+irisUpdateInfo.json
+minecraftinstance.json
 options.txt
 patchouli_data.json
 rhino.local.properties
-saves/
