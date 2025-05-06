@@ -1,2 +1,13 @@
 # Ignore Everything
-*.*
+*
+
+# Tracked Things
+!config/
+!defaultconfigs/
+!kubejs/
+!local/
+!patchouli_books/
+!quest_structures/
+!shaderpacks/
+!LICENSE
+!README.md
