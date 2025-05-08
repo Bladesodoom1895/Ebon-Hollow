@@ -1,5 +1,5 @@
 Version=1.0
-H:hud_type=vanilla
+H:hud_type=default
 B:enable_button_tooltip=true
 B:reduce_size=false
 B:show_armor=true
@@ -42,7 +42,7 @@ P:compass_position=0_0
 B:render_player_face=true
 P:widget_position=0_0
 P:face_position=0_0
-B:enable_fps=false
+B:enable_fps=true
 P:fps_position=0_0
 C:color_fps=9079434
 D:fps_scale=0.5
